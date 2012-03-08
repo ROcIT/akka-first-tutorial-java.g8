@@ -1,4 +1,4 @@
-A [giter8]  [Akka] 2.0 tutorial project using [Java] and [Maven].
+A [giter8] based [Akka] 2.0 tutorial project using [Java] and [Maven].
 
 Prerequisites to use this tutorial is to have [Java], [Maven] and [giter8] installed.
 

@@ -11,6 +11,7 @@
 
   <properties>
     <akka.version>$akka_version$</akka.version>
+    <scala.binary.version>$scala_binary_version$</scala.binary.version>
   </properties>
 
   <repositories>
@@ -23,7 +24,7 @@
   <dependencies>
     <dependency>
       <groupId>com.typesafe.akka</groupId>
-      <artifactId>akka-actor</artifactId>
+      <artifactId>akka-actor_\${scala.binary.version}</artifactId>
       <version>\${akka.version}</version>
     </dependency>
   </dependencies>

@@ -1,4 +1,4 @@
-A [giter8] based [Akka] 2.0 tutorial project using [Java] and [Maven].
+A [giter8] based [Akka] 2.1 tutorial project using [Java] and [Maven].
 
 Prerequisites to use this tutorial is to have [Java], [Maven] and [giter8] installed.
 
@@ -7,14 +7,14 @@ The next step is to open a terminal window and:
 	$ cd /Users/theuser/code (or where ever you would like your code to end up)
 	$ g8 typesafehub/akka-first-tutorial-java
     
-	Akka 2.0 Pi Calculation Tutorial with Java and Maven
+	Akka 2.1 Pi Calculation Tutorial with Java and Maven
 
 	name [Akka Pi Calculation Tutorial]:
 	group_id [org.example]:
 	artifact_id [pi-calculation]:
 	package [org.example]:
 	version [0.1-SNAPSHOT]:
-	akka_version [2.0]:
+	akka_version [2.1-SNAPSHOT]:
 
 	Applied typesafehub/akka-first-tutorial-java.g8 in akka-pi-calculation-tutorial
 
